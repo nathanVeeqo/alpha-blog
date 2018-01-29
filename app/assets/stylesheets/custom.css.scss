@@ -31,6 +31,7 @@ $navbar-default-bg: DodgerBlue;
 .jumbotron {
 background-image: asset-url("matrix-code.jpg");
 background-size: cover;	
+height: 500px;
 
 }
 
@@ -38,6 +39,7 @@ background-size: cover;
 	color: #fff;
 	text-align: center;
 	font-weight: bold;
+	padding-top:100px;
 }
 
 .btn-xlarge{
@@ -48,6 +50,7 @@ background-size: cover;
 
 
 footer{
+	font-size: 25px;
 	margin-top: 45px;
 	padding-top:5px;
 	border-top:1px solid #eaeaea;
@@ -70,4 +73,10 @@ footer ul{
 footer ul li {
 	float:left;
 	margin-left: 15px;
+}
+
+.lol {
+	font-size: 25px;
+	float:top;
+
 }
