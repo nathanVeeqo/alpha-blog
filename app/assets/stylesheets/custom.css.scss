@@ -47,10 +47,8 @@ height: 500px;
 	background-color: DodgerBlue;
 }
 
-
-
 footer{
-	font-size: 25px;
+	font-size: 20px;
 	margin-top: 45px;
 	padding-top:5px;
 	border-top:1px solid #eaeaea;
@@ -78,5 +76,17 @@ footer ul li {
 .lol {
 	font-size: 25px;
 	float:top;
+
+}
+
+
+
+.article-actions {
+	border-top: 2px solid #eaeaea;
+	padding-top: 5px;
+}
+
+.description {
+	margin-top: 0;
 
 }
